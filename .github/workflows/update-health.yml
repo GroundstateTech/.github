@@ -1,0 +1,26 @@
+name: Update Health
+
+on:
+  pull_request:
+  push:
+    branches: [The-Citadel]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate .github
+        shell: bash
+        run: |
+          test -f .github/ISSUE_TEMPLATE/bug_report.yml
+          test -f .github/ISSUE_TEMPLATE/feature_request.yml
+          test -f .github/PULL_REQUEST_TEMPLATE.md
+          test -f SECURITY.md
