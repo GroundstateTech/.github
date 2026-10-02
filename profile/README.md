@@ -1,62 +1,97 @@
 # Groundstate Technology LLC
 
-**Open development. Practical systems. Research that can leave the screen.**
+**Build it. Test it. Show the receipts.**
 
-Groundstate Technology LLC is an Ohio-based independent technology and research company building practical tools across software, accessibility, public-data analysis, operations, engineering, and applied R&D.
+Groundstate is an Ohio-based independent technology and research workshop working across software, accessibility, salvage engineering, environmental systems, field infrastructure, and applied science.
 
-We build prototypes in public when community development makes the work stronger, and we keep selected projects private when they involve immature security models, sensitive operational data, patent-sensitive work, or commercial development.
+Useful ideas need working prototypes, clear documentation, and honest testing. That is where we put the work.
 
-## Active public projects
+[Explore project demos](https://groundstatetechnology.com/downloads/) · [Maker Commons](https://groundstatetechnology.com/forum/) · [Support the workshop](https://www.patreon.com/cw/groundstate_technology_llc)
 
-| Project | What it does | Status |
+## Real project screenshots
+
+These are development screenshots from our project demo collection. They show interfaces under development; they do not establish production readiness or validated performance.
+
+### TradeRoot
+
+[![TradeRoot development screenshot](https://groundstatetechnology.com/images/screenshots/traderoot.png)](https://groundstatetechnology.com/downloads/)
+
+### StaffRoot
+
+[![StaffRoot development screenshot](https://groundstatetechnology.com/images/screenshots/staffroot.webp)](https://groundstatetechnology.com/downloads/)
+
+### GhostMap
+
+[![GhostMap development screenshot](https://groundstatetechnology.com/images/screenshots/ghostmap.webp)](https://groundstatetechnology.com/downloads/)
+
+### WiXness
+
+[![WiXness development screenshot](https://groundstatetechnology.com/images/screenshots/wixness.webp)](https://groundstatetechnology.com/downloads/)
+
+### BonePile
+
+[![BonePile development screenshot](https://groundstatetechnology.com/images/screenshots/bonepile.webp)](https://groundstatetechnology.com/downloads/)
+
+### Ouiji-Chat
+
+[![Ouiji-Chat development screenshot](https://groundstatetechnology.com/images/screenshots/ouiji-chat.webp)](https://groundstatetechnology.com/downloads/)
+
+### IuPetra
+
+[![IuPetra development screenshot](https://groundstatetechnology.com/images/screenshots/iupetra.webp)](https://groundstatetechnology.com/downloads/)
+
+### CareGrid
+
+[![CareGrid development screenshot](https://groundstatetechnology.com/images/screenshots/caregrid.webp)](https://groundstatetechnology.com/downloads/)
+
+## Project access and status
+
+Most original Groundstate repositories are currently private while we refine the software and decide release and licensing plans. Public screenshots and demos are previews, not source releases.
+
+| Project | Focus | Source access |
 | --- | --- | --- |
-| [CareGrid](https://github.com/GroundstateTech/CareGrid) | Unified patient-signal and medical-device data research platform | Active research prototype |
-| [EchoWalk](https://github.com/GroundstateTech/EchoWalk) | Acoustic-sonar accessibility research for obstacle awareness | Active prototype |
-| [IuPetra](https://github.com/GroundstateTech/IuPetra) | Local NASA/JPL asteroid, close-approach, and orbital-context investigation | Active research tool |
-| [Ouiji-Chat](https://github.com/GroundstateTech/Ouiji-Chat) | Private-first desktop team communications inspired by classic instant messaging | Active alpha |
-| [SignalWall](https://github.com/GroundstateTech/SignalWall) | Multi-feed media viewing and research workspace | Active prototype |
-| [StaffRoot](https://github.com/GroundstateTech/StaffRoot) | Payroll, employee, attendance, and HR operations software | Active development |
-| [ThothScript](https://github.com/GroundstateTech/ThothScript) | Groundstate scripting / tooling research project | Active development |
+| [FluxFile](https://github.com/GroundstateTech/FluxFile) | Local bulk file conversion | Public repository; see its current documentation and license |
+| TradeRoot | Retail operations | Private development |
+| StaffRoot | Employee, attendance, payroll and HR operations | Private development |
+| GhostMap | Map-based research and scenario workspace | Private development |
+| WiXness | Network monitoring and evidence workflows | Private development |
+| BonePile | Salvage inventory and reuse workflows | Private development |
+| Ouiji-Chat | Team communications | Private development |
+| IuPetra | NASA/JPL space-data research tools | Private development |
+| CareGrid | Patient-signal and device-data research | Private research |
+| EchoWalk | Acoustic-ranging and accessibility research | Private prototype |
+| SignalWall | Multi-feed media workspace | Private development |
+| ThothScript | Text, code and Markdown workspace | Private development |
 
-## Private / controlled R&D
+Release and licensing decisions remain open. Public third-party forks on this account are separate from this original-project portfolio.
 
-Groundstate also maintains private work in engineering, retail systems, source-aware reporting, strategic planning, salvage/reuse, and other experimental areas. Private status is intentional: it does not mean the work will remain closed permanently.
+## Beyond software
+
+Groundstate's wider research interests include electronics reuse, environmental monitoring, field infrastructure, materials, and biological scaffold research. These tracks have different maturity levels; an idea or research direction is not a demonstrated result.
+
+## Support the work
+
+Support helps cover development hardware, components, hosting, testing equipment, materials, prototypes, and documentation.
+
+- [Patreon — ongoing support](https://www.patreon.com/cw/groundstate_technology_llc)
+- [PayPal — one-time support](https://www.paypal.com/ncp/payment/N4EYQ56NTJ28E)
+
+Support does not purchase equity, ownership, IP rights, governance rights, certification, or licensing rights unless a separate written agreement expressly provides them.
 
 ## Development principles
 
 - Build something testable before making grand claims.
 - Distinguish prototypes, simulations, hypotheses, and validated systems.
-- Use public data without pretending to replace authoritative sources.
-- Keep security and privacy claims proportional to what has actually been implemented and tested.
-- Let communities contribute where openness improves the work.
-- Keep official project identity and trademarks distinct from source-code freedoms.
+- Keep privacy and security claims proportional to implemented and tested behavior.
 - Document provenance, limitations, assumptions, and known failure modes.
-- Preserve the ability to move promising work toward formal testing, collaboration, grants, licensing, or commercialization.
+- Keep official Groundstate branding distinct from source-code licensing.
 
-## Contributing
+Each repository's own license and contribution instructions govern that project. Contributions do not create employment, equity, company ownership, or rights in unrelated Groundstate intellectual property.
 
-Each repository's own `LICENSE`, `CONTRIBUTING.md`, `SECURITY.md`, and project-specific documentation control for that project.
+Unless expressly stated otherwise, prototypes are not certified medical devices, emergency or life-safety systems, clinical decision systems, or authoritative navigation systems.
 
-A contribution does not create employment, equity, ownership of Groundstate Technology LLC, or rights in unrelated Groundstate intellectual property.
+## Contact and follow
 
-## Research and safety
+[Website](https://groundstatetechnology.com) · [Email](mailto:groundstatetech@gmail.com) · [GitHub](https://github.com/GroundstateTech) · [YouTube](https://www.youtube.com/@GroundstateTechnologyLLC) · [TikTok](https://tiktok.com/@groundstateos) · [X](https://twitter.com/GroundstateOS)
 
-Unless expressly stated otherwise, Groundstate prototypes are not certified medical devices, emergency systems, life-safety systems, clinical decision systems, authoritative navigation systems, or substitutes for licensed professional judgment.
-
-## Support
-
-- Patreon: https://www.patreon.com/cw/groundstate_technology_llc
-- PayPal: https://www.paypal.com/ncp/payment/N4EYQ56NTJ28E
-
-Support does not purchase equity, ownership, IP rights, governance rights, certification, or preferential licensing unless a separate written agreement expressly says otherwise.
-
-## Follow Groundstate
-
-- GitHub: https://github.com/GroundstateTech
-- X: https://twitter.com/GroundstateOS
-- TikTok: https://tiktok.com/@groundstateos
-- YouTube: https://www.youtube.com/@GroundstateTechnologyLLC
-
----
-
-Copyright © 2026 Groundstate Technology LLC. Project source code is governed by each repository's license. Groundstate names, logos, and official-project identity remain separate from source-code licensing.
+Copyright © 2026 Groundstate Technology LLC. Source-code rights follow each repository's license. Groundstate names, logos, and official identity remain separate.
