@@ -69,6 +69,10 @@ Release and licensing decisions remain open. Public third-party forks on this ac
 
 Groundstate's wider research interests include electronics reuse, environmental monitoring, field infrastructure, materials, and biological scaffold research. These tracks have different maturity levels; an idea or research direction is not a demonstrated result.
 
+## Project collaboration
+
+Groundstate's software supports its own research, recovery and operating workflows alongside selected standalone tools. Project sponsorship and in-kind support can help fund a bounded demonstration, test cycle or documented handoff. See the [project funding brief](https://groundstatetechnology.com/funding.html) to start a concrete conversation.
+
 ## Support the work
 
 Support helps cover development hardware, components, hosting, testing equipment, materials, prototypes, and documentation.
